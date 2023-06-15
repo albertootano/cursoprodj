@@ -1,1 +1,3 @@
 desde el pc local
+
+cambios que se realizan editando el mismo archivo
